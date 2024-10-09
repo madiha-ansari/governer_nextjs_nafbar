@@ -2,7 +2,6 @@ import Link from 'next/link';
 import React from 'react';
 
 const Navbar = () => {
-  <body style={{color:"blue"}}>
   return (
     <nav>
       <ul>
@@ -20,7 +19,7 @@ const Navbar = () => {
         </li>
       </ul>
     </nav>
-  );</body>
+  )
 };
 
 
